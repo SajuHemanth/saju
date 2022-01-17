@@ -1,4 +1,4 @@
-//Validtion Code For Inputs
+	//Validtion Code For Inputs
 
 var email = document.forms['form']['email'];
 var password = document.forms['form']['password'];
@@ -38,3 +38,4 @@ function pass_Verify(){
 		return true;
 	}
 }
+
